@@ -3,7 +3,7 @@
 - React
 - Flask
 - Computer System: Windows
-- 
+
 # Dependency libraries
 
 ## Front-end
@@ -46,5 +46,7 @@ then open the following url in browser: http://localhost:3000/
 ## Source Data ZipCode
 ```
     The source data zipcode are fetched from the following website.
+    https://simplemaps.com/data/us-zips
 ```
-https://simplemaps.com/data/us-zips
+
+
