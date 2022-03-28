@@ -35,8 +35,9 @@ then open the following url in browser: http://localhost:3000/
     cd API
     pip install -r req.txt
     python main.py
-
-P.S.: If you are using UNIX, please use the following command for back-end:
+```
+## P.S.: If you are using UNIX, please use the following command for back-end:
+```
     cd API
     pip3 install -r req.txt
     python3 main.py
